@@ -1,7 +1,7 @@
 #               WeatherMap
 [Udacity's Final project](https://www.udacity.com)
 
-![weather Icon](WeaterMap/WeatherMap/WeatherMap/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png)
+![weather Icon](https://github.com/Abdu11a/WeaterMap/blob/master/WeatherMap/WeatherMap/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png)
 
 This app allows users to specify locations around the world, and to see the weather information  location. The locations will be stored in Core Data.
 
