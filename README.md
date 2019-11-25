@@ -22,3 +22,8 @@ This app allows users to specify locations around the world, and to see the weat
 ```
 coooooood
 ```
+## Requirements to run this app
+
+### Versions:
+
+### API
