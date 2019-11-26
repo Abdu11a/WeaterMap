@@ -24,6 +24,9 @@ The WeatherMap app downloads the weather informations and weather icons from [op
  
  
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen3.png" width=400>
+ 
+ 
+ <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen3.png" width=400>
  ---
 
 ```
