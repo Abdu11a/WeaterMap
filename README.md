@@ -36,6 +36,10 @@ To run this app you need to [Downlaod the WeatherMap](https://github.com/Abdu11a
 ```
 coooooood
 ```
+### The app Issues :
+
+---
+
 ## Requirements to run this app
 
 ### Versions:
