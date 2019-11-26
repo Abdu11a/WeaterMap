@@ -14,7 +14,7 @@ This app allows users to specify locations around the world, and to see the weat
 
 - **Weather** : Allows the users to see the weather information  
 
- ![Weather view](https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen2.png)
+ ![Weather view](https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen2.png)
  
  
  ---
