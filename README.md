@@ -6,7 +6,8 @@
 This app allows users to specify locations around the world, and to see the weather information location. The locations will be stored in Core Data.
 The WeatherMap app downloads the weather informations and weather icons from [openweathermap](https://openweathermap.org/api). The app allows users to drop pins on a map . Users will then be able to desplay he weather informations and weather icons for the location association of the weather informations and weather icons with the pin.
 
-### the app have tow view controller :
+---
+## the app have tow view controller :
 - **Add Pin View**  :  Allows the user to drop pins around the world in the map view .
 
  When the app first starts it will open to Add Pin View (map view). Users will be able to zoom and scroll around the map using standard pinch and drag gestures. The center of the map and the zoom level should be persistent. If the app is turned off, the map should return to the same state when it is turned on again. Tapping and holding the map drops a new pin. Users can place any number of pins on the map. When a pin is tapped, the app will navigate to the Weather View associated with the pin.
