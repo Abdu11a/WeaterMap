@@ -29,7 +29,8 @@ If the user selects a pin that already exist the Weather View should Download th
  
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen3.png" width=400>
  
- After the user selects a pin , the Weather View should Download and Desplay :
+ **After the user selects a pin , the Weather View should Download and Desplay :**
+ 
  | Framework | Description |
 | --- | --- 
 | [CocoaPods](https://github.com/CocoaPods/CocoaPods) | The Cocoa Dependency Manager. |
