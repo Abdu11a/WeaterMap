@@ -32,9 +32,9 @@ coooooood
 ### [openweathermap API : ](https://openweathermap.org/api)
 
 **This app uses the openweathermap API to get :**
-- City geo location,coordinate latitude and longitude
-- City nam and Country code
-- Weather Description
-- sunset and sunrise time
-- temperature
-- Weather icon for despalay icon in **Weather View** 
+- City geo location,coordinate latitude and longitude.
+- City nam and Country code.
+- Weather Description.
+- sunset and sunrise time.
+- temperature in Dgree.
+- Weather icon for despalay icon in **Weather View**. 
