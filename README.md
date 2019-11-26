@@ -31,15 +31,15 @@ If the user selects a pin that already exist the Weather View should Download th
  
  **After the user selects a pin , the Weather View should Download and Desplay :**
  
- | View desplay | Type | Description |   
-| --- | --- 
-| temperature  | UILabel |
-| City and Country name     | UILabel  |
-| Weather Description    | UILabel |
-| sunset and sunrise time     |  UILabel       |
-|    Weather icon   | UIImageView | |
-|    Map View   | MKMapView | |
-|  Image View   | UIImageView | |
+|  View desplay             | Type           | Description |   
+| ---                       | ---            | ---
+| temperature               | UILabel        |
+| City and Country name     | UILabel        |
+| Weather Description       | UILabel        |
+| sunset and sunrise time   |  UILabel       |
+|    Weather icon           | UIImageView    |
+|    Map View               | MKMapView      |
+|  Image View               | UIImageView    |  
 
 
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen4.png" width=400>
