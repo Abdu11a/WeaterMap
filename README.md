@@ -29,4 +29,11 @@ coooooood
 - Xcode 10+
 - Swift 4+
 
-### [openweathermap API : ](https://openweathermap.org/api) 
+### [openweathermap API : ](https://openweathermap.org/api)
+
+**This app uses the openweathermap API to get :**
+- City geo location,coordinate latitude and longitude
+- City nam and Country code
+- Weather Description
+- sunset and sunrise
+- temp
