@@ -2,15 +2,19 @@
 [Udacity's Final project](https://www.udacity.com)
 
 ![weather Icon](https://github.com/Abdu11a/WeaterMap/blob/master/WeatherMap/WeatherMap/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png)
-
-This app allows users to specify locations around the world, and to see the weather information  location. The locations will be stored in Core Data.
+## Overview
+This app allows users to specify locations around the world, and to see the weather information location. The locations will be stored in Core Data.
+The WeatherMap app downloads the weather informations and weather icons from [openweathermap](https://openweathermap.org/api). The app allows users to drop pins on a map . Users will then be able to desplay he weather informations and weather icons for the location association of the weather informations and weather icons with the pin.
 
 ### the app have tow view controller :
 - **Add Pin**  :  Allows the user to drop pins around the world in the map view .
 
+Add Pin View 
+
 
 <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png" width=400>
 
+---
 
 - **Weather** : Allows the users to see the weather information  
 
@@ -28,6 +32,7 @@ coooooood
 
 - Xcode 10+
 - Swift 4+
+- iOS 12+
 
 ### [openweathermap API : ](https://openweathermap.org/api)
 
