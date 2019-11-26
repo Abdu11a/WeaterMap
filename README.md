@@ -26,4 +26,7 @@ coooooood
 
 ### Versions:
 
+- Xcode 10+
+- Swift 4+
+
 ### API
