@@ -7,9 +7,9 @@ This app allows users to specify locations around the world, and to see the weat
 The WeatherMap app downloads the weather informations and weather icons from [openweathermap](https://openweathermap.org/api). The app allows users to drop pins on a map . Users will then be able to desplay he weather informations and weather icons for the location association of the weather informations and weather icons with the pin.
 
 ### the app have tow view controller :
-- **Add Pin**  :  Allows the user to drop pins around the world in the map view .
+- **Add Pin View**  :  Allows the user to drop pins around the world in the map view .
 
-Add Pin View 
+in this view  
 
 
 <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png" width=400>
