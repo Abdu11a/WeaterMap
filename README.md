@@ -30,9 +30,9 @@ coooooood
 
 ### Versions:
 
-- Xcode 10+
-- Swift 4+
-- iOS 12+
+- [![Xcode Version](https://img.shields.io/badge/Xcode-10+-success.svg)](https://swift.org) 
+- [![Swift Version](https://img.shields.io/badge/Swift-4+-success.svg)](https://swift.org)
+- [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://swift.org)
 
 ### [openweathermap API : ](https://openweathermap.org/api)
 
