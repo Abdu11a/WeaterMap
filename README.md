@@ -35,5 +35,6 @@ coooooood
 - City geo location,coordinate latitude and longitude
 - City nam and Country code
 - Weather Description
-- sunset and sunrise
-- temp
+- sunset and sunrise time
+- temperature
+- Weather icon for despalay icon in **Weather View** 
