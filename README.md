@@ -10,11 +10,11 @@ This app allows users to specify locations around the world, and to see the weat
 
 
 
-![Add Pin view](WeaterMap/Image/Screen1)
+![Add Pin view](https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png)
 
 - **Weather** : Allows the users to see the weather information  
 
- ![Weather view](WeaterMap/Image/Screen2)
+ ![Weather view](https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen2.png)
  
  
  ---
