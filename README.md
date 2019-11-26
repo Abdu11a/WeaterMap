@@ -31,13 +31,12 @@ If the user selects a pin that already exist the Weather View should Download th
  
  **After the user selects a pin , the Weather View should Download and Desplay :**
  
- | Framework | Description |
+ | View desplay | Description |
 | --- | --- 
-| [CocoaPods](https://github.com/CocoaPods/CocoaPods) | The Cocoa Dependency Manager. |
-| [Alamofire](https://github.com/Alamofire/Alamofire) | Easy HTTP networking in Swift. |
-| [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | The better way to deal with JSON data in Swift.|
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web.|
- 
+|  temperature  | The Cocoa Dependency Manager. |
+|                |                             |
+|                | The better way to deal with JSON data in Swift.|
+
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen4.png" width=400>
  ---
 
