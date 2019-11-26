@@ -37,7 +37,7 @@ If the user selects a pin that already exist the Weather View should Download th
 | City and Country name     | UILabel        
 | Weather Description       | UILabel        
 | sunset and sunrise time   |  UILabel       
-|    Weather icon           | UIImageView    |
+|    Weather icon           | UIImageView    | ---
 |    Map View               | MKMapView      |
 |  Image View               | UIImageView    |  
 
