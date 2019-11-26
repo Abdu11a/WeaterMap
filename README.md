@@ -9,13 +9,13 @@ This app allows users to specify locations around the world, and to see the weat
 - **Add Pin**  :  Allows the user to drop pins around the world in the map view .
 
 
-<img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png" width=200>
+<img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png" width=400>
 
 
 - **Weather** : Allows the users to see the weather information  
 
  
- <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen2.png" width=200>
+ <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen2.png" width=400>
  
  ---
 
