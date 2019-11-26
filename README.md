@@ -37,12 +37,12 @@ If the user selects a pin that already exist the Weather View should Download th
 | City and Country name     | UILabel        |get City and Country name from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
 | Weather Description       | UILabel        | get Weather Description from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
 | sunset and sunrise time   |  UILabel       |  get sunset and sunrise time from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
-|    Weather icon           | UIImageView    | 
-|    Map View               | MKMapView      |
-|  Image View               | UIImageView    |   
+|    Weather icon           | UIImageView    | we get image icon by using imageiconID parameter .and download the image icon from URL .
+|    Map View               | MKMapView      | the Weather View dispaly map view and pin of your selcted location .
+|  Image View               | UIImageView    | this image is background for weather information view . the image change when the current time is night or light.
 
 
-### JSON Example of API call:  
+### Example of API call:  
 we us this url and lan , lon and openWeatherIPkey Parameters to get data
 
 ```
