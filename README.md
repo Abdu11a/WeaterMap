@@ -29,6 +29,10 @@ The WeatherMap app downloads the weather informations and weather icons from [op
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen3.png" width=400>
  ---
 
+## Runing the WeatherMap App :
+
+To run this app you need to Downlaod the WeatherMap and open
+
 ```
 coooooood
 ```
