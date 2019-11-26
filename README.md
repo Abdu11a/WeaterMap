@@ -9,14 +9,14 @@ The WeatherMap app downloads the weather informations and weather icons from [op
 ### the app have tow view controller :
 - **Add Pin View**  :  Allows the user to drop pins around the world in the map view .
 
-in this view  
+ in this view  
 
 
 <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/Screen1.png" width=400>
 
 ---
 
-- **Weather** : Allows the users to see the weather information  
+- **Weather View** : Allows the users to see the weather information  
 
  
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen2.png" width=400>
