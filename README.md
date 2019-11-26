@@ -31,7 +31,7 @@ The WeatherMap app downloads the weather informations and weather icons from [op
 
 ## Runing the WeatherMap App :
 
-To run this app you need to Downlaod the WeatherMap and open
+To run this app you need to [Downlaod the WeatherMap](https://github.com/Abdu11a/WeaterMap/archive/master.zip), and open
 
 ```
 coooooood
