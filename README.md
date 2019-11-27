@@ -16,6 +16,8 @@ The WeatherMap app downloads the weather informations and weather icons from [op
 
 Users can place any number of pins on the map. When a pin is tapped, the app will navigate to the Weather View associated with the pin.
 
+
+
 ---
 
 - **Weather View** : Allows the users to see the weather information  
@@ -23,11 +25,17 @@ Users can place any number of pins on the map. When a pin is tapped, the app wil
 If you taps the pin , The app Will Download the weather information from [openweathermap](https://openweathermap.org)associated with location by using latitude and longitude of the pin .
 If the user selects a pin that already exist the Weather View should Download the weather information again to display the weather information in the Weather View .
  
+ 
+- Weather View in light 
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen2.png" width=400>
  
  
  
+ 
+ Weather View in night
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen3.png" width=400>
+ 
+ ---
  
  **After the user selects a pin , the Weather View should Download and Display :**
  
@@ -46,6 +54,8 @@ downloaded(from: "http://openweathermap.org/img/wn/\(weather.weatherIconID)@2x.p
 | ---                       | ---            | ---
 |    Map View               | MKMapView      | the Weather View dispaly map view and pin of your selcted location .
 |  Image View               | UIImageView    | this image is background for weather information view . the image change when the current time is night or light.
+
+
 
 
 ### Example of API call:  
