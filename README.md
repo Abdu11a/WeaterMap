@@ -37,7 +37,12 @@ If the user selects a pin that already exist the Weather View should Download th
 | City and Country name     | UILabel        |get City and Country name from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
 | Weather Description       | UILabel        | get Weather Description from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
 | sunset and sunrise time   |  UILabel       |  get sunset and sunrise time from openweathermap API , JSON returns data by the geographic coordinates , lat and lon coordinates of the location of your interest .
-|    Weather icon           | UIImageView    | we get image icon by using imageiconID parameter .and download the image icon from URL .
+|    Weather icon           | UIImageView    | we get image icon by using imageiconID parameter .and download the image icon from URL by using this func .
+```
+downloaded(from: "http://openweathermap.org/img/wn/\(weather.weatherIconID)@2x.png") 
+
+```
+
 |    Map View               | MKMapView      | the Weather View dispaly map view and pin of your selcted location .
 |  Image View               | UIImageView    | this image is background for weather information view . the image change when the current time is night or light.
 
@@ -101,18 +106,14 @@ we use this url and lan , lon and openWeatherIPkey Parameters to get data
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen4.png" width=400>
  ---
 
-## Runing the WeatherMap App :
 
-To run this app you need to [Downlaod the WeatherMap](https://github.com/Abdu11a/WeaterMap/archive/master.zip), and open
-
-```
-coooooood
-```
 <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen6.png" width=600>
 
 ---
 
 ## Requirements to run this app
+
+**To run this app you need to [Downlaod the WeatherMap](https://github.com/Abdu11a/WeaterMap/archive/master.zip).**
 
 ### Versions:
 
