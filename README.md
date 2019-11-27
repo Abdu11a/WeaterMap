@@ -104,7 +104,7 @@ we use this url and lan , lon and openWeatherIPkey Parameters to get data
 }
 ```
 
-#### Alart Action , when some Network connection happen
+#### Alert Action, when some Network connection issues happen .
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen4.png" width=400>
  
  ---
