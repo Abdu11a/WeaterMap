@@ -43,7 +43,7 @@ If the user selects a pin that already exist the Weather View should Download th
 
 
 ### Example of API call:  
-we us this url and lan , lon and openWeatherIPkey Parameters to get data
+we use this url and lan , lon and openWeatherIPkey Parameters to get data
 
 ```
       private let openWeatherURL = "https://api.openweathermap.org/data/2.5/weather"
