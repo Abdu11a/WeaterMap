@@ -42,7 +42,8 @@ If the user selects a pin that already exist the Weather View should Download th
 downloaded(from: "http://openweathermap.org/img/wn/\(weather.weatherIconID)@2x.png") 
 
 ```
-
+|  View Display             | Type           | Description |   
+| ---                       | ---            | ---
 |    Map View               | MKMapView      | the Weather View dispaly map view and pin of your selcted location .
 |  Image View               | UIImageView    | this image is background for weather information view . the image change when the current time is night or light.
 
@@ -103,13 +104,12 @@ we use this url and lan , lon and openWeatherIPkey Parameters to get data
 }
 ```
 
+#### Alart Action , when some Network connection happen
  <img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen4.png" width=400>
+ 
  ---
 
-
-<img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen6.png" width=600>
-
----
+ ---
 
 ## Requirements to run this app
 
@@ -130,3 +130,6 @@ we use this url and lan , lon and openWeatherIPkey Parameters to get data
 - sunset and sunrise time.
 - temperature in Dgree.
 - Weather icon for despalay icon in **Weather View**. 
+- In Info.plist you need to add App Transport Security Settings Key to Allow Arbitrary Loads.
+
+<img src="https://github.com/Abdu11a/WeaterMap/blob/master/Image/screen6.png" width=600>
